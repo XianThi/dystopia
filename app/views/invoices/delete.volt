@@ -1,0 +1,1 @@
+Duyuru silindi. Yönleniyorsunuz..

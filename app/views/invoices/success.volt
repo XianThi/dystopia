@@ -1,0 +1,1 @@
+Duyuru okundu olarak işaretlendi. Yönleniyorsunuz..
