@@ -33,4 +33,4 @@ How to install
 
 License
 -------
-Dystopia is open source software licensed under the New BSD License. See the docs/LICENSE.txt file for more
+Dystopia is open source software licensed under the GNU GPL v3 License. See the docs/LICENSE.txt file for more
